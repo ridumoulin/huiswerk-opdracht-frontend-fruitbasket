@@ -1,0 +1,55 @@
+.fruit {
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 300px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.fruit p {
+    font-size: 20px;
+}
+
+.fruit h2 {
+    margin: 0 10px;
+}
+
+.fruit button {
+    height: 20px;
+    width: 20px;
+}
+
+.reset-button {
+    width: 300px;
+    margin-top: 20px;
+}
+
+.counter {
+    margin: 0 10px;
+}
+
+.fruit-form {
+    display: flex;
+    flex-direction: column;
+    margin: 20px 0;
+}
+
+.fruit-form label {
+    margin-bottom: 10px;
+}
+
+.fruit-form button {
+    width: 300px;
+}
+
+.comment {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+
+
+
